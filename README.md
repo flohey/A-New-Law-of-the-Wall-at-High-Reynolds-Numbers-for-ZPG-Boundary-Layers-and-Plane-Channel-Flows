@@ -2,7 +2,7 @@
 
 This repository contains a Python script that supplements the manuscript:
 
-**Durst, Heyder & Zanoun**, *A New Law of the Wall at High Reynolds Numbers for ZPG Boundary Layers and Plane-Channel Flows*, [Journal Reference].
+**Durst, Heyder & Zanoun**, *A New Law of the Wall at High Reynolds Numbers for ZPG Boundary Layers and Plane-Channel Flows*, submitted to Journal of Fluid Mechanics.
 
 The code provides calculations, data processing, and visualization routines used to support the analysis presented in the paper. 
 It is intended for researchers and practitioners interested in turbulent boundary-layer and channel-flow modeling.
