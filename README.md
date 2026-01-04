@@ -9,4 +9,4 @@ It is intended for researchers and practitioners interested in turbulent boundar
 
 ## Usage
 
-Run the provided Python file directly. Ensure that all dependencies listed in the header of the script are installed. The NLW-data can be exported to excel via the last two lines.
+Run the provided Python file `nlw.py` directly. Ensure that all dependencies listed in the header of the script are installed. The NLW-data can be exported to excel via the last two lines.
